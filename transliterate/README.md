@@ -6,6 +6,9 @@ The transliteration corpus has itself been mined in an unsupervised fashion from
 
 Currently we have trained transliteration models for five language pairs: bn-hi, ta-hi, te-hi, en-hi and mr-hi
 
+Support for transliteration has been introduced in Moses from version 2.1  
+So please ensure that you have minimum 2.1 version setup for Moses  
+
 Commands to run the transliteration module using moses
 
 $moseshome/mosesdecoder/scripts/Transliteration/post-decoding-transliteration.pl  \  
