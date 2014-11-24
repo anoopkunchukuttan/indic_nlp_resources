@@ -39,6 +39,6 @@ OOV file
 New Delhi is capital of India  
 India is worlds seventh largest nation in the World  
 
-On running the transliteration module, the output is: 
+On running the transliteration module, the output is:  
 न्यू डेल्ही इस कैपिटल आफ इंडिया    
 इंडिया इस वर्ल्ड सेवंथ लारगेस्ट नेशन इन थे वर्ल्ड   
