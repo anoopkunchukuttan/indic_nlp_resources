@@ -8,9 +8,9 @@ Commands to run the transliteration module using moses
 
 $moseshome/mosesdecoder/scripts/Transliteration/post-decoding-transliteration.pl  \  
 --moses-src-dir $moseshome/mosesdecoder --external-bin-dir $moseshome/tools \  
---transliteration-model-dir <path to transliteration model folder> --oov-file <path to file containing oov words, oovs are space separated with each line containing all oovs for the input line>\  
- --input-file <input file to transliterated>  --output-file <output file location> \  
- --input-extension en --output-extension hi --language-model <path to language model>   
+--transliteration-model-dir {path to transliteration model folder} --oov-file {path to file containing oov words, oovs are space separated with each line containing all oovs for the input line}\  
+ --input-file {input file to transliterated}  --output-file {output file location} \  
+ --input-extension {input language code for eg. en} --output-extension {output language code for eg. hi} --language-model {path to language model}   
  --decoder $moseshome/mosesdecoder/bin/moses  
 
 A sample execution of the model will be as follows:   
