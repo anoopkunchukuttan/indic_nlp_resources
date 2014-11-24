@@ -1,12 +1,16 @@
 #Indic NLP Resources
 
-Resources to go with the Indic NLP Library
+The toolkit contains resources required by some components of the [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_resources) and other NLP resources for Indian languages. 
 
-##Author
 
-Anoop Kunchukuttan ( anoop.kunchukuttan@gmail.com )
+### Indic NLP Library related resources 
 
-##Version: 0.2
+- Morphanalyzer models for Indian languages
+ 
+### Other NLP Resources
+- Transliteration Models for transliteration involving Indian languages and English. 
+
+###Version: 0.2
 
 ##License
 
