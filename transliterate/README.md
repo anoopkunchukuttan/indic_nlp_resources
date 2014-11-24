@@ -30,7 +30,8 @@ $moseshome/mosesdecoder/scripts/Transliteration/post-decoding-transliteration.pl
  --input-extension en --output-extension hi --language-model /home/ratish/project/translit/lm/nc.binlm.1 \  
  --decoder $moseshome/mosesdecoder/bin/moses  
 
-In case, the models are needed for purely transliteration purpose:  
+So far, we have seen the use of transliteration in a post-editing task for machine translation task.
+In case, the models are needed for purely transliteration purpose, the input file and OOV file are the same.  
 Sample input file:  
 New Delhi is capital of India  
 India is worlds seventh largest nation in the World  
