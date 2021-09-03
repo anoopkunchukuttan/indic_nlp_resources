@@ -11,8 +11,8 @@ If you are looking for any other resources for Indian languages, please check th
 ### Other NLP Resources
 - Transliteration Models for transliteration involving Indian languages and English. 
 
-###Version: 0.2
+### Version: 0.2
 
-##License
+## License
 
 The models and resources are released under the MIT License
