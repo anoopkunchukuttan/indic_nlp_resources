@@ -1,6 +1,6 @@
 # Indic NLP Resources
 
-The toolkit contains resources required by some components of the [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_resources) and other NLP resources for Indian languages. 
+The toolkit contains resources required by some components of the [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) and other NLP resources for Indian languages. 
 
 If you are looking for any other resources for Indian languages, please check the [Indic NLP Catalog](https://github.com/indicnlpweb/indicnlp_catalog)
 
